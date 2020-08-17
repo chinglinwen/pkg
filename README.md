@@ -1,0 +1,3 @@
+# pkg
+
+for go packages
